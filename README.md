@@ -2,6 +2,10 @@
 
 This project automatically generates thumbnails from 3D assets using Blender's Python API. All files in the `assets/` folder will be rendered into thumbnails and saved to the `output/` folder.
 
+<img src="image/README/1770587884035.png" width="400">
+<img src="image/README/1770587829730.png" width="400">
+
+
 ## 🛠️ Requirements
 
 - **Blender 4.3 or newer**
